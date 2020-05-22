@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Git it right this yimw
+Got it right this time
